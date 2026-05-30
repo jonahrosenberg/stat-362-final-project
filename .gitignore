@@ -24,6 +24,7 @@ ENV/
 
 # Data
 data/images/
+data/glove*.txt
 
 # OS
 .DS_Store
