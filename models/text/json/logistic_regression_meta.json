@@ -1,0 +1,9 @@
+{
+  "model": "logistic_regression",
+  "accuracy": 0.7002053388090349,
+  "macro_f1": 0.7012423507780019,
+  "negative_f1": 0.6830122591943958,
+  "neutral_f1": 0.6463245492371706,
+  "positive_f1": 0.774390243902439,
+  "runtime_seconds": 1.350036382675171
+}
