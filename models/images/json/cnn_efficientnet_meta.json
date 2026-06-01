@@ -1,0 +1,9 @@
+{
+  "model": "cnn_efficientnet",
+  "accuracy": 0.36858316221765913,
+  "macro_f1": 0.3624621937494931,
+  "negative_f1": 0.3058823529411765,
+  "neutral_f1": 0.39348710990502034,
+  "positive_f1": 0.3880171184022825,
+  "runtime_seconds": 769.647974729538
+}
