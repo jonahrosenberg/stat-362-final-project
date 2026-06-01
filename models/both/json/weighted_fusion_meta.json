@@ -1,0 +1,15 @@
+{
+  "model": "multimodal_weighted_fusion",
+  "accuracy": 0.728952772073922,
+  "macro_f1": 0.7293873030939951,
+  "negative_f1": 0.717607973421927,
+  "neutral_f1": 0.6705539358600583,
+  "positive_f1": 0.8,
+  "runtime_seconds": 451.3119246959686,
+  "best_alpha": 0.6,
+  "text_acc_joint_test": 0.7299794661190965,
+  "img_acc_joint_test": 0.3593429158110883,
+  "fusion_strategy": "weighted_average_alpha_tuned_on_val",
+  "text_model": "GloVe+LSTM (units=32)",
+  "image_model": "MobileNetV2 (dense=256)"
+}
