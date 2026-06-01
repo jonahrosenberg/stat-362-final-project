@@ -1,0 +1,16 @@
+{
+  "model": "multimodal_stacking",
+  "accuracy": 0.7073921971252567,
+  "macro_f1": 0.7098200240881236,
+  "negative_f1": 0.6811594202898551,
+  "neutral_f1": 0.6445623342175066,
+  "positive_f1": 0.8037383177570093,
+  "runtime_seconds": 235.66749382019043,
+  "text_acc_joint_test": 0.7073921971252567,
+  "img_acc_joint_test": 0.36960985626283366,
+  "text_coef_abs_sum": 7.7112307300756795,
+  "img_coef_abs_sum": 3.7943655460095638,
+  "fusion_strategy": "stacking_logreg_meta_on_val",
+  "text_model": "GloVe+LSTM (units=32)",
+  "image_model": "MobileNetV2 (dense=256)"
+}
