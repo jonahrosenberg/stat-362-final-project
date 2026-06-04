@@ -34,3 +34,6 @@ desktop.ini
 # IDE
 .vscode/
 .idea/
+
+# Presentation talking points (personal notes)
+STAT362_Presentation_Talking_Points.md
