@@ -11,10 +11,8 @@ Headline result: text wins (GloVe+LSTM, 73.3%), the image models plateau near th
 | `Rosenberg_Jonah_report.ipynb` | The final report notebook, written for Quarto rendering (sections: Introduction, Data, Methods, Results, Conclusion, References). Code is hidden on render; a GitHub link is provided in the preamble. |
 | `Rosenberg_Jonah_report.html` | The rendered, self-contained HTML report. |
 | `STAT362_Final_Presentation.pptx` | An 8-slide presentation deck (native, fully editable objects). |
-| `STAT362_Presentation_Talking_Points.md` | Per-slide speaker notes timed to ~8 minutes. Gitignored (personal notes). |
 | `STAT362_Final_Project_Description.pdf` | The assignment specification. |
-| `CLAUDE.md` | Project guidance and running notes (conventions, results tables, environment). |
-| `.gitignore` | Git exclusions (virtual env, large data, talking points, etc.). |
+| `.gitignore` | Git exclusions (virtual env, large data, etc.). |
 
 ## Directories
 
